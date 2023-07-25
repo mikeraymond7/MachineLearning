@@ -11,10 +11,10 @@ The Kaggle Competition was an in-class competition in which each student attempt
 Project 3 introduced RMSE, Feature Engineering, clustering, and nearest neighbor calculations to create better investments in the stock market based on comparisons between company trends.
 
 ## **Project 2**  
-The objective of **Project 2** was to take Amazon Kindle Unlimited Data and use Time Series and a number of other models to ensure the most desireable books are always in the store.  
+**Project 2** utilized Amazon Kindle Unlimited Data over Time Series and a number of other models to ensure the most desireable books are always in the store.  
 
 ## **Project 1**  
-The objective of **Project 1** was mainly to learn basic data mining techniques and use a Jaccard Similarity between different ETFs in order to see which companies have the same major holdings
+**Project 1** introduced basic data mining techniques and the Jaccard Similarity to compare the likenesses of different ETFs based on major holdings.
 
 ### Presentations Link  
 To see our presentations and conclusions on each project (except the kaggle competition), please find each video in the link below:
